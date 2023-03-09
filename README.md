@@ -21,3 +21,7 @@ These are some of the generated outputs after the training.
 <div align="center">
 <img src="./resources/nubelua_generated.png">
 </div>
+
+## Improvements 
+- Diffusing the latent space instead of the actual image to reduce computations and get much clearer images
+- Add Conditioning to fine-tune it and get better results 
